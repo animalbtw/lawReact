@@ -1,0 +1,10 @@
+.content {
+    display: grid;
+    grid-area: c;
+}
+
+.bg {
+    background-image: url(https://images.wallpaperscraft.ru/image/siniy_fon_sploshnoy_svetlyy_65833_2560x1440.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}

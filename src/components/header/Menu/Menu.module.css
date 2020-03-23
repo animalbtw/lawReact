@@ -1,0 +1,18 @@
+.menu {
+    grid-area: m;
+    display: grid;
+    align-self: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.item a{
+    color: black;
+}
+
+.item  :hover {
+    border-bottom: 3px solid burlywood;
+}
+
+.item a.active {
+    border-bottom: 3px solid burlywood;
+}

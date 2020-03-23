@@ -1,0 +1,10 @@
+.main {
+    grid-area: n;
+    align-self: center;
+    justify-self: center;
+}
+
+.headerInfo {
+    font-size: xx-large;
+    font-family: AgoraMedium;
+}

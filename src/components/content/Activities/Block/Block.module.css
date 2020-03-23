@@ -1,0 +1,23 @@
+.wrapper {
+    display: grid;
+    grid-template-areas: 
+    'header'
+    'body';
+    grid-template-rows: 1fr 3fr;
+    background-color: lightblue;
+    font-family: AgoraMedium;
+}
+
+
+.header {
+    grid-area: header;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+.body {
+    grid-area: body;
+    font-size: 17px;
+    text-align: center;
+}

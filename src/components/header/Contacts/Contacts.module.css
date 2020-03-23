@@ -1,0 +1,10 @@
+.headerContacts {
+    grid-area: t;
+    align-self: center;
+    justify-self: center;
+}
+
+.main {
+    font-size: larger;
+    font-family: AgoraMedium;
+}

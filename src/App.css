@@ -1,0 +1,12 @@
+.wrapper {
+    display: grid;
+    grid-template-areas: 
+    'h h'
+    'c c';
+    grid-template-columns: 1fr;
+    grid-template-rows: 2fr 10fr;
+}
+
+a {
+    text-decoration: none;
+}
